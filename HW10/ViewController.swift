@@ -8,5 +8,8 @@ class ViewController: UIViewController {
     func viewSetup() {
         view.backgroundColor = .systemRed
     }
+    func someMethod() {
+        //someMethod
+    }
 }
 
