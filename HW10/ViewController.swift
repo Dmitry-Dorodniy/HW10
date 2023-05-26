@@ -6,7 +6,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
     func viewSetup() {
-        view.backgroundColor = .systemRed
+        view.backgroundColor = .systemPink
     }
     func someMethod() {
         //someMethod
